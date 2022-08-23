@@ -1,4 +1,3 @@
-# Capstone-Project-6
 ## Poised Database Project
 ## Project Details:
 ### Description
